@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gheath201
-- 👀 I am actively working within Python, Cassandra, Elasticsearch, Kubernetes, JavaScript/VueJS, and more.
-- 🌱 I’m currently learning rust-lang
+- 👀 I am actively a tech lead in a DevSecOps environments building out software factories, APIs, and more. Majority of my daily workflow is utilizing tools like kubernetes, packer, ansible, terraform. But I also build applications using rust, python, and Javascript
 - 📫 The best way to reach me is my email gheath201@gmail.com
 
 <!---
